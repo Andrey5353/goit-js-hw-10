@@ -7,14 +7,25 @@ body {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #fafafa;
-  color: #212121;
+  background-color: #4e4e4e;
+  color: #b9b9b9;
   line-height: 1.5;
 }
 
 #search-box {
   font: inherit;
+  background-color: #b9b9b9;
+
   padding: 8px;
   max-width: 320px;
   margin-bottom: 16px;
+}
+
+.country-info_name {
+  font-size: 50px;
+  margin: 0;
+}
+
+.country-info_descr {
+  font-size: 20px;
 }
