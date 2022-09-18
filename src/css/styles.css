@@ -29,3 +29,9 @@ body {
 .country-info_descr {
   font-size: 20px;
 }
+
+.country-list {
+  list-style-type: none;
+  font-size: 28px;
+  padding: 8;
+}
